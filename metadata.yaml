@@ -1,0 +1,35 @@
+_repo: Worth-his-while_72998
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Blanchard, Amy Ella
+    aliases:
+    - Blanchard, Amy E. (Amy Ella)
+    - Aunt Ella
+    - Ella, Aunt
+    birthdate: 1856
+    deathdate: 1926
+    gutenberg_agent_id: '8406'
+    url: http://www.gutenberg.org/2009/agents/8406
+    wikipedia: https://en.wikipedia.org/wiki/Amy_Ella_Blanchard
+description: ''
+gutenberg_issued: '2024-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72998'
+language: en
+pgterms:marc904: https://archive.org/details/worthhiswhile00blaniala
+pgterms:marc905: 20221125183344blanchard
+pgterms:marc906: '1901'
+pgterms:marc907: us
+production_note: Carol Brown, Aaron Adrignola and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bGeorge W. Jacobs & Co., $c1901.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Worth his while
+url: http://www.gutenberg.org/ebooks/72998
